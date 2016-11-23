@@ -1,0 +1,19 @@
+{
+  "name": "congenial-potato",
+  "version": "1.0.0",
+  "description": "Test for WebApp/WebJob",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilbmclaughlin/congenial-potato.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neilbmclaughlin/congenial-potato/issues"
+  },
+  "homepage": "https://github.com/neilbmclaughlin/congenial-potato#readme"
+}
