@@ -1,6 +1,9 @@
 {
   "name": "congenial-potato",
   "version": "1.0.0",
+  "engines": {
+     "node": "6.6.0"
+  }, 
   "description": "Test for WebApp/WebJob",
   "main": "app.js",
   "scripts": {
