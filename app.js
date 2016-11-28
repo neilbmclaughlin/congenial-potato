@@ -4,7 +4,7 @@ var app = express()
 var port = process.env.port || 3000;
 
 app.get('/', function (req, res) {
-  console.log({ request: req});
+  console.log({ headers: req.headers});
   res.send('Hello World!')
 })
 
